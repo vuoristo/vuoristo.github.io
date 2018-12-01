@@ -1,0 +1,13 @@
+<section class="thirteen columns">
+<h1>Publications</h1>
+{% for publication in site.data.publications %}
+    <article>
+    <header>
+        <h1>{{ publication.title }}</h1>
+        <span>
+        <p>{{ publication.author }}. {{ publication.howpublished }}. {{ publication.year }}</p>
+        </span>
+    </header>
+    </article>
+{% endfor %}
+</section>
