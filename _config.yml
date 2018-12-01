@@ -1,10 +1,12 @@
 title: Risto Vuorio
-email: riv@umich.edu
+email_full: mailto:riv@umich.edu
+linkedin: ristovuorio
+github: vuoristo
+
 description: >-
   Risto Vuorio is a visiting scholar at University of Michigan.
 baseurl: ""
 url: "https://vuoristo.github.io"
-github_username:  vuoristo
 
 # Build settings
 markdown: kramdown

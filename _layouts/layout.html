@@ -22,6 +22,20 @@
 <div class="container">
     <section class="header">
         <h2>{{ site.title }}</h2>
+        <img src="{{ site.baseurl }}/static/img/profile.jpg" class="me">
+        <p>
+        <a href="{{ site.email_full }}">
+            <i class="fa fa-envelope-o"></i>
+            Email
+        </a>
+        <a href="https://github.com/{{ site.github }}">
+            <i class="fa fa-github"></i>
+            Github
+        </a>
+        <a href="https://www.linkedin.com/in/{{ site.linkedin }}">
+            <i class="fa fa-linkedin"></i>
+            Linkedin
+        </a>
     </section>
         {{ content }}
 </div>

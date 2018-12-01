@@ -40,6 +40,10 @@ p, address {
     text-align: center;
 }
 
+.header > p > a {
+    margin-left: 6px
+}
+
 header > h1, section > h1, section > h2 {
     font-family: monospace;
     color: #1c78c4;
@@ -51,13 +55,6 @@ header > h1 {
     margin-bottom: 20px;
 }
 
-.sidebar a {
-    color: rgb(48, 48, 48);
-}
-
-.sidebar a:hover {
-    color: #1c78c4;
-}
 
 .container > header p, .container > header address {
     margin-bottom: 20px;
