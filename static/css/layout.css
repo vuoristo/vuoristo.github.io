@@ -36,7 +36,11 @@ p, address {
     margin-bottom: 20px;
 }
 
-header > h1, section > h1 {
+.header {
+    text-align: center;
+}
+
+header > h1, section > h1, section > h2 {
     font-family: monospace;
     color: #1c78c4;
 }
