@@ -1,4 +1,4 @@
-<section class="thirteen columns">
+<section class="columns">
 <h1>Education</h1>
 {% for education in site.data.education %}
 <article>
@@ -8,8 +8,7 @@
         <span><address>{{ education.location }}</address><time>{{ education.graduation }}</time></span>
     </header>
     <p>
-        {{ education.major }}
-        {{ education.minor }}
+        Minor: {{ education.minor }}
     </p>
     {% if education.thesis != null %}
     <p><em>Thesis: {{ education.thesis }}</em></p>
