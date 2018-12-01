@@ -1,0 +1,19 @@
+<section class="thirteen columns">
+<h1>Education</h1>
+{% for education in site.data.education %}
+<article>
+    <header>
+        <h1>{{ education.degree }}</h1>
+        <span>{{ education.school }}</span>
+        <span><address>{{ education.location }}</address><time>{{ education.graduation }}</time></span>
+    </header>
+    <p>
+        {{ education.major }}
+        {{ education.minor }}
+    </p>
+    {% if education.thesis != null %}
+    <p><em>Thesis: {{ education.thesis }}</em></p>
+    {% endif %}
+</article>
+{% endfor %}
+</section>

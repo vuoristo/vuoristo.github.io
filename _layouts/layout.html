@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ site.name }}">
+    <meta name="author" content="{{ site.name }}">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="stylesheet" href="{{ site.baseurl }}/static/css/skeleton.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/static/css/layout.css">
+
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+    <link rel="shortcut icon" href="{{ site.baseurl }}/static/img/favicon.ico">
+</head>
+
+
+<body>
+
+<div class="container">
+    <header class="thirteen columns">
+        <h1>{{ site.title }}</h1>
+
+    </header>
+    <div class="thirteen columns clearfix">
+
+        {{ content }}
+
+    <footer class="thirteen columns"></footer>
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+<section class="thirteen columns industry-experience">
+    <h1>Industry Experience</h1>
+    {% for job in site.data.industry-experience %}
+        <article>
+        <header>
+            <h1>{{ job.title }}</h1>
+            <span>
+            <address>{{ job.company }}</address>
+            <time>
+                {{ job.begin | date: "%b %Y" }} -
+                {{ job.end | date: "%b %Y" | default: "present" }}
+            </time>
+            </span>
+        </header>
+        <!-- <ul> -->
+        <!-- {% for sentence in job.info %} -->
+        <!--   <li>{{ sentence }}</li> -->
+        <!-- {% endfor %} -->
+        <!-- </ul> -->
+        </article>
+    {% endfor %}
+</section>
+      
