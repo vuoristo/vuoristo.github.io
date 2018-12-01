@@ -1,24 +1,8 @@
-- title: Research Engineer
-  company: SK Telecom
-  begin: 2017-04-21
-  end: 2018-10-24
-  info:
-    - "At T-Brain I have worked on research projects both for immediate industrial applications as well as for more longer term research. Most of my work has revolved around deep learning for computer vision."
-    - "My largest project at T-Brain was object detection from traffic scenes for autonomous vehicles using deep neural networks. I created models that hit the published top results in traffic sign and lane detection tasks but are still lightweight enough to run on mobile hardware."
-    - "I was the first author on a paper exploring meta-learning for continual learning. The paper has been submitted for NIPS 2018 for review."
 - title: Data Scientist/Software Engineer
   company: Wolt Enterprises Oy
   begin: 2016-01-01
   end: 2016-04-01
-  info:
-    - "Designed and implemented Wolt's first extract-transform-load data warehouse pipeline."
-    - "Designed and mentored my colleague on the implementation of a microservice for predicting the restaurants' food preparation times."
 - title: Software Engineer
   company: Apportable Inc
   begin: 2014-04-14
   end: 2014-12-21
-  info:
-    - "The Apportable platform is a set of tools for converting Objective-C and C++ iOS applications to native Android applications. My work at Apportable included programming and software design in C, C++, Objective-C and Java at system and application level."
-    - "The project I made largest contributions to was compiler support for Android including custom parsing, modifications to the type system and associated runtime components. The components were mostly implemented in C++."
-    - "I worked on integrating Android libraries to Objective-C applications by implementing Objective-C APIs for advertising, payment and other Java frameworks."
-    - "I worked with clients to help them port their iOS applications to Android."
