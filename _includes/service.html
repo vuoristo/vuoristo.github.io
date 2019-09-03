@@ -1,0 +1,11 @@
+<section class="columns">
+    <h1>Service and Activities</h1>
+    <article>
+        <header>
+            <h1>Reviewer: </h1>
+                {% for reviewer_venue in site.data.reviewer_venues %}
+                    {{ reviewer_venue.venue }}{% unless forloop.last %},{% endunless %}
+                {% endfor %}
+        </header>
+    </article>
+</section>
