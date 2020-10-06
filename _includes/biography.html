@@ -1,5 +1,7 @@
 <section class="columns">
-<article>
-    <p>{{ site.data.biography.about }}</p>
-</article>
+    {% for paragraph in site.data.biography %}
+    <article>
+        <p>{{ paragraph.text }}</p>
+    </article>
+    {% endfor %}
 </section>

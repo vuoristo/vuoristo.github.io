@@ -4,10 +4,12 @@
     <article>
     <header>
         <h1>{{ publication.title }}</h1>
-        <span>
-        <p>{{ publication.author }}. {{ publication.howpublished }}. {{ publication.year }}</p>
-        </span>
     </header>
+        <span>
+        <p>{{ publication.author }}. {{ publication.howpublished }}. {{ publication.year }}.
+        <a href={{ publication.url }}>paper.</a>
+        </p>
+        </span>
     </article>
 {% endfor %}
 </section>
