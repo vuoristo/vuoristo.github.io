@@ -1,3 +1,8 @@
+- title: Pairwise Weights for Temporal Credit Assignment
+  author: Zeyu Zheng (equal contribution), Risto Vuorio (equal contribution), Richard Lewis, and Satinder Singh
+  howpublished: NeurIPS Deep RL Workshop
+  year: 2020
+  url: "https://drive.google.com/file/d/1-WjOVlpbMMjzUTY5FmeONDFZm8M4Bp2G/view"
 - title: Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation
   author: Risto Vuorio (equal contribution), Shao-Hua Sun (equal contribution), Hexiang Hu, and Joseph J. Lim
   howpublished: NeurIPS (Spotlight)
