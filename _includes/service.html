@@ -4,7 +4,7 @@
         <header>
             <h1>Program Committee: </h1>
                 {% for reviewer_venue in site.data.reviewer_venues %}
-                    {{ reviewer_venue.venue }}{% unless forloop.last %},{% endunless %}
+                    {{ reviewer_venue.venue }}.
                 {% endfor %}
         </header>
     </article>

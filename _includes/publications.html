@@ -7,7 +7,9 @@
     </header>
         <span>
         <p>{{ publication.author }}. {{ publication.howpublished }}. {{ publication.year }}.
-        <a href={{ publication.url }}>paper.</a>
+        {% if publication.url != null %}
+        <a href={{ publication.url }}>paper</a>
+        {% endif %}
         </p>
         </span>
     </article>
