@@ -1,7 +1,16 @@
 - title: Learning State Representations from Random Deep Action-conditional Predictions
   author: Zeyu Zheng, Vivek Veeriah, Risto Vuorio, Richard Lewis, Satinder Singh
+  howpublished: NeurIPS
   year: 2021
   url: "https://arxiv.org/abs/2102.04897"
+- title: "No DICE: An Investigation of the Bias-Variance Tradeoff in Meta-Gradients"
+  author: Risto Vuorio, Jacob Beck, Gregory Farquhar, Jakob Foerster, Shimon Whiteson
+  howpublished: NeurIPS Deep RL Workshop
+  year: 2021
+- title: "On the Practical Consistency of Meta-Reinforcement Learning Algorithms"
+  author: Zheng Xiong, Luisa Zintgraf, Jacob Beck, Risto Vuorio, Shimon Whiteson
+  howpublished: NeurIPS Meta-Learning Workshop
+  year: 2021
 - title: Pairwise Weights for Temporal Credit Assignment
   author: Zeyu Zheng (equal contribution), Risto Vuorio (equal contribution), Richard Lewis, and Satinder Singh
   howpublished: NeurIPS Deep RL Workshop
