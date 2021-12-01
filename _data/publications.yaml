@@ -1,37 +1,37 @@
-- title: Learning State Representations from Random Deep Action-conditional Predictions
-  author: Zeyu Zheng, Vivek Veeriah, Risto Vuorio, Richard Lewis, Satinder Singh
-  howpublished: NeurIPS
-  year: 2021
-  url: "https://arxiv.org/abs/2102.04897"
+- title: "Pairwise Weights for Temporal Credit Assignment"
+  author: Zeyu Zheng (equal contribution), Risto Vuorio (equal contribution), Richard Lewis, and Satinder Singh
+  howpublished: AAAI
+  year: 2022
+  url: "https://arxiv.org/abs/2102.04999"
 - title: "No DICE: An Investigation of the Bias-Variance Tradeoff in Meta-Gradients"
   author: Risto Vuorio, Jacob Beck, Gregory Farquhar, Jakob Foerster, Shimon Whiteson
   howpublished: NeurIPS Deep RL Workshop
   year: 2021
+- title: "Learning State Representations from Random Deep Action-conditional Predictions"
+  author: Zeyu Zheng, Vivek Veeriah, Risto Vuorio, Richard Lewis, Satinder Singh
+  howpublished: NeurIPS
+  year: 2021
+  url: "https://arxiv.org/abs/2102.04897"
 - title: "On the Practical Consistency of Meta-Reinforcement Learning Algorithms"
   author: Zheng Xiong, Luisa Zintgraf, Jacob Beck, Risto Vuorio, Shimon Whiteson
   howpublished: NeurIPS Meta-Learning Workshop
   year: 2021
-- title: Pairwise Weights for Temporal Credit Assignment
-  author: Zeyu Zheng (equal contribution), Risto Vuorio (equal contribution), Richard Lewis, and Satinder Singh
-  howpublished: NeurIPS Deep RL Workshop
-  year: 2020
-  url: "https://arxiv.org/abs/2102.04999"
-- title: Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation
+- title: "Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation"
   author: Risto Vuorio (equal contribution), Shao-Hua Sun (equal contribution), Hexiang Hu, and Joseph J. Lim
   howpublished: NeurIPS (Spotlight)
   year: 2019
   url: "https://papers.nips.cc/paper/8296-multimodal-model-agnostic-meta-learning-via-task-aware-modulation"
-- title: Deep Reinforcement Learning for Dynamic Multi-Driver Dispatching and Repositioning Problem
+- title: "Deep Reinforcement Learning for Dynamic Multi-Driver Dispatching and Repositioning Problem"
   author: John Holler (equal contribution), Risto Vuorio (equal contribution), Tiancheng Jin, Satinder Singh, Zhiwei Qin, Jieping Ye, Xiaocheng Tang, Yan Jiao, and Chenxi Wang
   howpublished: ICDM Short Paper
   year: 2019
   url: "https://ieeexplore.ieee.org/abstract/document/8970873"
-- title: Toward Multimodal Model-Agnostic Meta-Learning
+- title: "Toward Multimodal Model-Agnostic Meta-Learning"
   author: Risto Vuorio, Shao-Hua Sun, Hexiang Hu and Joseph J. Lim
   howpublished: NeurIPS Meta-Learning Workshop
   year: 2018
   url: "https://arxiv.org/abs/1812.07172"
-- title: Meta Continual Learning
+- title: "Meta Continual Learning"
   author: Risto Vuorio, Subin Yi, Dong-Yeon Cho, Daejoong Kim and Jiwon Kim
   howpublished: NeurIPS Continual Learning Workshop
   year: 2018

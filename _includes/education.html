@@ -7,9 +7,11 @@
         <span>{{ education.school }}</span>
         <span><address>{{ education.location }}</address><time>{{ education.graduation }}</time></span>
     </header>
+    {% if education.minor != null %}
     <p>
         Minor: {{ education.minor }}
     </p>
+    {% endif %}
     {% if education.thesis != null %}
     <p><em>Thesis: {{ education.thesis }}</em></p>
     {% endif %}
