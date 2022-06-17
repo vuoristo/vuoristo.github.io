@@ -2,9 +2,13 @@
     <h1>Service and Activities</h1>
     <article>
         <header>
+            <h1>Junior Organizer: </h1>
+                {% for junior_organizer in site.data.junior_organizer %}
+                    <p>{{ junior_organizer.venue }}.</p>
+                {% endfor %}
             <h1>Program Committee: </h1>
                 {% for reviewer_venue in site.data.reviewer_venues %}
-                    {{ reviewer_venue.venue }}.
+                <p>{{ reviewer_venue.venue }}.</p>
                 {% endfor %}
         </header>
     </article>
