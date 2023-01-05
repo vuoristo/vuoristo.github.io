@@ -1,3 +1,13 @@
+- title: "Deconfounded Imitation Learning"
+  author: Risto Vuorio, Johann Brehmer, Hanno Ackermann, Daniel Dijkman, Taco Cohen, and Pim de Haan
+  howpublished: NeurIPS Deep RL Workshop
+  year: 2022
+  url: "https://arxiv.org/abs/2211.02667"
+- title: "Hypernetworks in Meta-Reinforcement Learning"
+  author: Jacob Beck, Matthew Thomas Jackson, Risto Vuorio, and Shimon Whiteson
+  howpublished: Conference on Robot Learning (CoRL)
+  year: 2022
+  url: "https://arxiv.org/abs/2210.11348"
 - title: "Pairwise Weights for Temporal Credit Assignment"
   author: Zeyu Zheng (equal contribution), Risto Vuorio (equal contribution), Richard Lewis, and Satinder Singh
   howpublished: AAAI
