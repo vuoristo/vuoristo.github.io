@@ -32,6 +32,7 @@
   author: Zheng Xiong, Luisa Zintgraf, Jacob Beck, Risto Vuorio, Shimon Whiteson
   howpublished: NeurIPS Meta-Learning Workshop
   year: 2021
+  url: "https://arxiv.org/abs/2112.00478"
 - title: "Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation"
   author: Risto Vuorio (equal contribution), Shao-Hua Sun (equal contribution), Hexiang Hu, and Joseph J. Lim
   howpublished: NeurIPS (Spotlight)
