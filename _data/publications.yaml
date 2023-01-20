@@ -1,3 +1,8 @@
+- title: "A Survey of Meta-Reinforcement Learning"
+  author: Jacob Beck (equal contribution), Risto Vuorio (equal contribution), Evan Zheran Liu, Zheng Xiong, Luisa Zintgraf, Chelsea Finn, and Shimon Whiteson
+  howpublished: arxiv
+  year: 2023
+  url: "https://arxiv.org/abs/2301.08028"
 - title: "Deconfounded Imitation Learning"
   author: Risto Vuorio, Johann Brehmer, Hanno Ackermann, Daniel Dijkman, Taco Cohen, and Pim de Haan
   howpublished: NeurIPS Deep RL Workshop
