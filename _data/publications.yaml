@@ -1,3 +1,8 @@
+- title: "A Survey of Meta-Reinforcement Learning"
+  author: Jacob Beck (equal contribution), Risto Vuorio (equal contribution), Evan Zheran Liu, Zheng Xiong, Luisa Zintgraf, Chelsea Finn, and Shimon Whiteson
+  howpublished: arxiv
+  year: 2023
+  url: "https://arxiv.org/abs/2301.08028"
 - title: "Discovering General Reinforcement Learning Algorithms with Adversarial Environment Design"
   author: Matthew T. Jackson, Minqi Jiang, Jack Parker-Holder, Risto Vuorio, Chris Lu, Gregory Farquhar, Shimon Whiteson, and Jakob N. Foerster
   howpublished: NeurIPS
@@ -8,11 +13,6 @@
   howpublished: NeurIPS
   year: 2023
   url: "https://openreview.net/forum?id=pefAAzu8an"
-- title: "A Survey of Meta-Reinforcement Learning"
-  author: Jacob Beck (equal contribution), Risto Vuorio (equal contribution), Evan Zheran Liu, Zheng Xiong, Luisa Zintgraf, Chelsea Finn, and Shimon Whiteson
-  howpublished: arxiv
-  year: 2023
-  url: "https://arxiv.org/abs/2301.08028"
 - title: "Deconfounded Imitation Learning"
   author: Risto Vuorio, Johann Brehmer, Hanno Ackermann, Daniel Dijkman, Taco Cohen, and Pim de Haan
   howpublished: NeurIPS Deep RL Workshop
@@ -33,16 +33,6 @@
   howpublished: NeurIPS Deep RL Workshop
   year: 2021
   url: "https://arxiv.org/abs/2209.11303"
-- title: "Learning State Representations from Random Deep Action-conditional Predictions"
-  author: Zeyu Zheng, Vivek Veeriah, Risto Vuorio, Richard Lewis, Satinder Singh
-  howpublished: NeurIPS
-  year: 2021
-  url: "https://arxiv.org/abs/2102.04897"
-- title: "On the Practical Consistency of Meta-Reinforcement Learning Algorithms"
-  author: Zheng Xiong, Luisa Zintgraf, Jacob Beck, Risto Vuorio, Shimon Whiteson
-  howpublished: NeurIPS Meta-Learning Workshop
-  year: 2021
-  url: "https://arxiv.org/abs/2112.00478"
 - title: "Multimodal Model-Agnostic Meta-Learning via Task-Aware Modulation"
   author: Risto Vuorio (equal contribution), Shao-Hua Sun (equal contribution), Hexiang Hu, and Joseph J. Lim
   howpublished: NeurIPS (Spotlight)
@@ -53,13 +43,3 @@
   howpublished: ICDM Short Paper
   year: 2019
   url: "https://ieeexplore.ieee.org/abstract/document/8970873"
-- title: "Toward Multimodal Model-Agnostic Meta-Learning"
-  author: Risto Vuorio, Shao-Hua Sun, Hexiang Hu and Joseph J. Lim
-  howpublished: NeurIPS Meta-Learning Workshop
-  year: 2018
-  url: "https://arxiv.org/abs/1812.07172"
-- title: "Meta Continual Learning"
-  author: Risto Vuorio, Subin Yi, Dong-Yeon Cho, Daejoong Kim and Jiwon Kim
-  howpublished: NeurIPS Continual Learning Workshop
-  year: 2018
-  url: "https://arxiv.org/abs/1806.06928"
