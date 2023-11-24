@@ -1,3 +1,13 @@
+- title: "Discovering General Reinforcement Learning Algorithms with Adversarial Environment Design"
+  author: Matthew T. Jackson, Minqi Jiang, Jack Parker-Holder, Risto Vuorio, Chris Lu, Gregory Farquhar, Shimon Whiteson, and Jakob N. Foerster
+  howpublished: NeurIPS
+  year: 2023
+  url: "https://openreview.net/forum?id=kAU6Cdq1gV"
+- title: "Recurrent Hypernetworks are Surprisingly Strong in Meta-RL"
+  author: Jacob Beck, Risto Vuorio, Zheng Xiong, and Shimon Whiteson
+  howpublished: NeurIPS
+  year: 2023
+  url: "https://openreview.net/forum?id=pefAAzu8an"
 - title: "A Survey of Meta-Reinforcement Learning"
   author: Jacob Beck (equal contribution), Risto Vuorio (equal contribution), Evan Zheran Liu, Zheng Xiong, Luisa Zintgraf, Chelsea Finn, and Shimon Whiteson
   howpublished: arxiv
