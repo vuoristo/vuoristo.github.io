@@ -1,6 +1,6 @@
 - title: "A Survey of Meta-Reinforcement Learning"
   author: Jacob Beck (equal contribution), Risto Vuorio (equal contribution), Evan Zheran Liu, Zheng Xiong, Luisa Zintgraf, Chelsea Finn, and Shimon Whiteson
-  howpublished: arxiv
+  howpublished: Under review
   year: 2023
   url: "https://arxiv.org/abs/2301.08028"
 - title: "Discovering General Reinforcement Learning Algorithms with Adversarial Environment Design"
@@ -15,7 +15,7 @@
   url: "https://openreview.net/forum?id=pefAAzu8an"
 - title: "Deconfounded Imitation Learning"
   author: Risto Vuorio, Johann Brehmer, Hanno Ackermann, Daniel Dijkman, Taco Cohen, and Pim de Haan
-  howpublished: NeurIPS Deep RL Workshop
+  howpublished: Under review
   year: 2022
   url: "https://arxiv.org/abs/2211.02667"
 - title: "Hypernetworks in Meta-Reinforcement Learning"
