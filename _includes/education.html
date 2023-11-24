@@ -1,20 +1,32 @@
 <section class="columns">
 <h1>Education</h1>
-{% for education in site.data.education %}
 <article>
     <header>
-        <h1>{{ education.degree }}</h1>
-        <span>{{ education.school }}</span>
-        <span><address>{{ education.location }}</address><time>{{ education.graduation }}</time></span>
+        <h1>Dphil Computer Science</h1>
+        <span>University of Oxford</span>
+        <span><address>Oxford</address><time>2024 (Expected)</time></span>
     </header>
-    {% if education.minor != null %}
-    <p>
-        Minor: {{ education.minor }}
-    </p>
-    {% endif %}
-    {% if education.thesis != null %}
-    <p><em>Thesis: {{ education.thesis }}</em></p>
-    {% endif %}
+    <p>Fully funded via Scatcherd European Scholarship in conjunction with Engineering and Physical Sciences Research Council Studentship.</p>
 </article>
-{% endfor %}
+<article>
+    <header>
+        <h1>M.Sc. Computer Science (with distinction)</h1>
+        <span>Aalto University</span>
+        <span><address>Helsinki, Finland</address><time>2016</time></span>
+    </header>
+    <p>
+        Minor: Mathematics
+    </p>
+    <p><em>Thesis: Stream Processing on a Multi-core DSP with Open Event Machine</em></p>
+</article>
+<article>
+    <header>
+        <h1>B.Sc. Industrial Engineering and Management</h1>
+        <span>Aalto University</span>
+        <span><address>Helsinki, Finland</address><time>2014</time></span>
+    </header>
+    <p>
+        Minor: software technology
+    </p>
+</article>
 </section>
