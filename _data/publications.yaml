@@ -1,3 +1,13 @@
+- title: "SplAgger: Split Aggregation for Meta-Reinforcement Learning"
+  author: Jacob Beck, Matthew Jackson, Risto Vuorio, Zheng Xiong, Shimon Whiteson
+  howpublished: Reinforcement Learning Conference
+  year: 2024
+  url: "https://arxiv.org/abs/2402.06570"
+- title: "Distilling Morphology-Conditioned Hypernetworks for Efficient Universal Morphology Control"
+  author: Zheng Xiong, Risto Vuorio, Jacob Beck, Matthieu Zimmer, Kun Shao, Shimon Whiteson
+  howpublished: ICML
+  year: 2024
+  url: "https://arxiv.org/abs/2402.06570"
 - title: "A Survey of Meta-Reinforcement Learning"
   author: Jacob Beck (equal contribution), Risto Vuorio (equal contribution), Evan Zheran Liu, Zheng Xiong, Luisa Zintgraf, Chelsea Finn, and Shimon Whiteson
   howpublished: Under review
