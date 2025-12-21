@@ -6,7 +6,9 @@
             <h1>{{ job.title }}</h1>
             <span>
             <address>{{ job.company }}</address>
+            {% if job.supervisor != null %}
             <p>Advised by {{ job.supervisor }}</p>
+            {% endif %}
             <time>
                 {{ job.begin | date: "%b %Y" }} -
                 {{ job.end | date: "%b %Y" | default: "present" }}
